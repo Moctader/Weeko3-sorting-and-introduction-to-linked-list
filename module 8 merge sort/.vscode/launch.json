@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/moctader/Phitron/Basic Data Structures and Problem Solving Part-II/Weeko3 sorting and introduction to linked list/module 8 merge sort",
+      "program": "/Users/moctader/Phitron/Basic Data Structures and Problem Solving Part-II/Weeko3 sorting and introduction to linked list/module 8 merge sort/build/Debug/outDebug"
+    }
+  ]
+}
